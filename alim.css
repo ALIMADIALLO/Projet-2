@@ -1,0 +1,49 @@
+
+nav.menu-nav ul li.bouton{
+	display: inline-block;
+}
+
+nav.menu-nav ul li.bouton{
+	list-style-type:none;
+}
+
+nav.menu-nav ul li.bouton a{
+	color: white;
+	background-color:red;
+	text-decoration: none;
+	padding: 10px;
+}
+
+nav.menu-nav ul li.bouton:hover a{
+	color:red;
+	background-color:white;
+	transition:2.5s all;
+}
+
+p{color:#5503E2;
+	background-color:#DBEC5E
+
+}
+h2.devant{color:red;
+          font-weight:bold;
+          margin-right:100px;
+          padding-left:100px;
+}
+h2.branche{color:blue;
+	margin: 15px
+}
+p.bijou{color:red;
+
+}
+
+body{background-image: url(./ima2.jpg)no-repeat;
+	background-size:100px;
+}
+
+h1{font-size: 100px;
+   margin-right:100px;
+   padding-left:100px;}
+
+
+   
+}
